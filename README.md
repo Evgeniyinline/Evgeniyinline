@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Evgeniy Orlov
 #### Computer science student, IT news writer from Russia 🇷🇺
-![Computer science student, IT news writer from Russia 🇷🇺]
 
 Обучаюсь в QA.GURU 
 
